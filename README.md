@@ -1,7 +1,7 @@
 # Projeto SistemaAlunos
 Projeto de um sistema cadastro básico desenvolvido durante as aulas de Programação Orientada a Objeto utilizando Java.
 
-# Como utilizar
+## Como utilizar
 - A aplicação é bem básica, funcionando por meio do console do NetBeans, com o projeto salvo em sua máquina e aberto no NetBeans, procure o arquivo **Main.java**:
 
 <p align="center">
@@ -15,3 +15,9 @@ Projeto de um sistema cadastro básico desenvolvido durante as aulas de Programa
     <img src="images/printtestando.JPG" width="450">
 </p>
 
+## Funcionalidades
+* [x] Cadastro de alunos utilizando herança; 
+
+* [x] Gerenciamento dos dados dos alunos cadastrados; 
+
+* [x] Todos os métodos funcionais;
